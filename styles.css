@@ -8,6 +8,7 @@
 img{
 	height : 300px;
 	width : 60%;
+	object-fit: cover;
 }
 #content{
 	text-align: center;
